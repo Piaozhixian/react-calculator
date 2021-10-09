@@ -32,3 +32,18 @@
   height: 500px;
   background-color: wheat;
 }
+
+.button {
+  width: 75px;
+  height: 75px;
+  background-color: gray;
+}
+.button-row {
+  display: flex;
+}
+.display-panel {
+  margin: 5px auto;
+  width: 290px;
+  height: 190px;
+  background-color: whitesmoke;
+}
